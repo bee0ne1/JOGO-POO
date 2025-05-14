@@ -19,8 +19,11 @@ tamanho dos sprites do robbo estão diferentes.
 update 13/05
 
 foi corrigido alguns sprites do robbo, porem apenas para o fundo preto
+
 definido que o tiro do robô sai uma posição a sua frente de acordo com a sua direção. (na função key pressed em Tela)
+
 foi criada uma função que verifica se a posição inicial do tiro é viável, isso é, se o tiro não estará dentro de uma parede. (função posicaoinicialbala em ControleDeJogo) (não foi definido sobre as bombas)
+
 foi criada uma função que define as colisões do tiro com os objetos (função ColisaoBala em ControleDeJogo) (foi definido apenas a colisão com as paredes, onde a bala é apagada do cenário)
 
 

@@ -27,4 +27,16 @@ foi criada uma função que verifica se a posição inicial do tiro é viável, 
 foi criada uma função que define as colisões do tiro com os objetos (função ColisaoBala em ControleDeJogo) (foi definido apenas a colisão com as paredes, onde a bala é apagada do cenário)
 
 
-proximo objetivo, definir as explosões das bombas e fazer o robô empurrar paredes amarelas
+*proximo objetivo, definir as explosões das bombas e fazer o robô empurrar paredes amarelas*
+
+
+primeiro update 14/05
+
+extensão no método ehPosicaoValida, que agora contém uma parte dedicada
+as paredes amarelas que são empurráveis pelo robô (em ControleDeJogo)
+
+criação de métodos que verificam se ha um personagem ao redor de um personagem especifico em ControleDeJogo
+
+fase 1 um pouco mais organizada
+
+

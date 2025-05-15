@@ -1,11 +1,11 @@
-update 1
+update 1 (v1)
 o que foi feito: 1. o robo interage com coletaveis, há uma função looping chamada processaTudo, que em uma parte verifica se o personagem interagido com o robô é mortal. Se sim ele é deletado
 
 o que falta ser feito: definir os impactos da explosão da bomba, definir o teletransporte, definir o tiro do robbo e a colisão,
 criar o level design baseado no original
 
 
-*UPDATE 12/05*
+*UPDATE 12/05 (v2)*
 
 funções separadas na função processaTudo pra reduzir o código (em ControleDeJogo)
 
@@ -16,7 +16,7 @@ adicionado sinalizadores de direção do robô (método direction em Personagem)
 problemas:
 tamanho dos sprites do robbo estão diferentes.
 
-*UPDATE 13/05*
+*UPDATE 13/05 (v3)*
 
 foi corrigido alguns sprites do robbo, porem apenas para o fundo preto
 
@@ -30,7 +30,7 @@ foi criada uma função que define as colisões do tiro com os objetos (função
 proximo objetivo, definir as explosões das bombas e fazer o robô empurrar paredes amarelas
 
 
-*UPDATE 14/05*
+*UPDATE 14/05 (v5)*
 
 extensão no método ehPosicaoValida, que agora contém uma parte dedicada
 às paredes amarelas que são empurráveis pelo robô (em ControleDeJogo)

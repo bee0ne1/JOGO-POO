@@ -60,6 +60,14 @@ ou se há objetos destrutíveis que irão morrer
 
 próximos objetivos: definir o teletransporte, definir o lançachamas e terminar a fase1
 
+*UPDATE 16/05 (v7)*
+
+agora o robô pode se teleportar, ele realiza uma animação
+pra isso foi criado dois novos status na classe Heroi: teleporteInicio
+e teleporteFim. 
+
+próximos objetivos: definir o lança-chamas e terminar a fase1
+
 
 
 

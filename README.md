@@ -48,3 +48,19 @@ código + organizado
 próximos objetivos: fazer a animação de explosão e o teleporte
 
 
+
+*UPDATE 15/05 (v6)*
+
+agora os personagens possuem uma animação de morte. (métodos morte e morteHeroi em ControleDeJogo)
+para isso foi uma adicionado um atributo boolean "morrendo" na classe Personagem, que quando se encontra true,
+o personagem deve se tornar imóvel, assim realiza a animação de morte. 
+
+foi definido a explosão da bomba, que verifica se há espaços vazios ao seu redor, que terão a animação de explosão
+ou se há objetos destrutíveis que irão morrer
+
+próximos objetivos: definir o teletransporte, definir o lançachamas e terminar a fase1
+
+
+
+
+

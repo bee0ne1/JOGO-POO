@@ -66,6 +66,9 @@ agora o robô pode se teleportar, ele realiza uma animação
 pra isso foi criado dois novos status na classe Heroi: teleporteInicio
 e teleporteFim. 
 
+foi concertado uma parte do código em que evita a repetição de códigos por frame, os métodos que necessitavam apenas do robô foram tirados do laço for na ProcessaTudo, agora esses códigos são rodados uma vez por frame
+O JOGO RODA A 60 FPS ENTÃO O MÉTODO PROCESSATUDO ESTÁ SENDO RODADO 60 VEZES POR SEGUNDO
+
 próximos objetivos: definir o lança-chamas e terminar a fase1
 
 

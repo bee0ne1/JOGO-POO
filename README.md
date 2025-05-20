@@ -71,6 +71,16 @@ O JOGO RODA A 60 FPS ENTÃO O MÉTODO PROCESSATUDO ESTÁ SENDO RODADO 60 VEZES P
 
 próximos objetivos: definir o lança-chamas e terminar a fase1
 
+*UPDATE 19/05 (v8)*
+agora há lança chamas, o código também está mais organizado. 
+O lança chamas possui um arraylist que contém os fogos, 
+e agora as bombas possuem um arraylist que contém as explosões. 
+além de deixar o código melhor, isso conecta esses elementos que antes
+ficavam jogados no arraylist da fase, e precisavam fazer mais verificações para encontrá-los
+
+proximos objetivos: implementar as fases e os inimigos.
+
+
 
 
 

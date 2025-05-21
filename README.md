@@ -85,6 +85,11 @@ primeira fase concluida, algumas alterações no código
 agora o lança chamas possui todas as direções (antes só para baixo)
 foi adicionada uma fase teste para testar as mecanicas do jogo
 
+*UPDATE v10*
+segunda fase concluida, agora o jogo possui perseguidores fantasmas
+seria bom implementar vidas para o jogador coletar
+
+
 
 
 

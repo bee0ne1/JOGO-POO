@@ -89,7 +89,8 @@ foi adicionada uma fase teste para testar as mecanicas do jogo
 segunda fase concluida, agora o jogo possui perseguidores fantasmas
 seria bom implementar vidas para o jogador coletar
 
-
+v10.2
+agora o jogo possui vidas espalhadas nas fases, e o usuario pode escolher o tempo de ativacao dos lança chamas
 
 
 

@@ -80,7 +80,10 @@ ficavam jogados no arraylist da fase, e precisavam fazer mais verificações par
 
 proximos objetivos: implementar as fases e os inimigos.
 
-
+*UPDATE 20/05 (v9)*
+primeira fase concluida, algumas alterações no código
+agora o lança chamas possui todas as direções (antes só para baixo)
+foi adicionada uma fase teste para testar as mecanicas do jogo
 
 
 

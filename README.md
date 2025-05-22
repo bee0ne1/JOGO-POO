@@ -85,12 +85,14 @@ primeira fase concluida, algumas alterações no código
 agora o lança chamas possui todas as direções (antes só para baixo)
 foi adicionada uma fase teste para testar as mecanicas do jogo
 
-*UPDATE v10*
+*UPDATE 21/05 v10*
 segunda fase concluida, agora o jogo possui perseguidores fantasmas
 seria bom implementar vidas para o jogador coletar
 
 v10.2
 agora o jogo possui vidas espalhadas nas fases, e o usuario pode escolher o tempo de ativacao dos lança chamas
 
-
+*UPDATE 21/05 v11*
+terceira fase concluida, novo inimigo arrow que anda ao redor das paredes
+agora o botão c reseta a fase, mas gasta uma vida.
 

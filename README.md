@@ -96,3 +96,6 @@ agora o jogo possui vidas espalhadas nas fases, e o usuario pode escolher o temp
 terceira fase concluida, novo inimigo arrow que anda ao redor das paredes
 agora o botão c reseta a fase, mas gasta uma vida.
 
+*UPDATE 22/05 v12*
+quarta fase concluida
+

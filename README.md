@@ -102,3 +102,6 @@ quarta fase concluida
 v12.2
 MUDANÇA GERAL NO CÓDIGO, AGORA AS CLASSES DOS PERSONAGENS POSSUEM MÉTODOS, QUE ANTES TODOS ESTAVAM NA CLASSE CONTROLE DE JOGO.
 
+*UPDATE 23/05 v13*
+fase final concluida, falta fazer a fase dos créditos e o save+load do jogo
+

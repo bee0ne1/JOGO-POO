@@ -99,3 +99,6 @@ agora o botão c reseta a fase, mas gasta uma vida.
 *UPDATE 22/05 v12*
 quarta fase concluida
 
+v12.2
+MUDANÇA GERAL NO CÓDIGO, AGORA AS CLASSES DOS PERSONAGENS POSSUEM MÉTODOS, QUE ANTES TODOS ESTAVAM NA CLASSE CONTROLE DE JOGO.
+

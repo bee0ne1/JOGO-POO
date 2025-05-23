@@ -105,3 +105,5 @@ MUDANÇA GERAL NO CÓDIGO, AGORA AS CLASSES DOS PERSONAGENS POSSUEM MÉTODOS, QU
 *UPDATE 23/05 v13*
 fase final concluida, falta fazer a fase dos créditos e o save+load do jogo
 
+v13.2
+mudança nos sprites dos inimigos fase final, créditos adicionados após concluir a fase final

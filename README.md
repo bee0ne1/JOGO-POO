@@ -107,3 +107,7 @@ fase final concluida, falta fazer a fase dos créditos e o save+load do jogo
 
 v13.2
 mudança nos sprites dos inimigos fase final, créditos adicionados após concluir a fase final
+
+*UPDATE 24/05 v14 (VERSÃO FINAL)*
+agora é permitido fazer save e load usando as teclas S e L, também é possível adicionar personagens na fase arrastando o mouse
+
